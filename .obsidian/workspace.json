@@ -1,0 +1,177 @@
+{
+  "main": {
+    "id": "4a35eda3964dbcd8",
+    "type": "split",
+    "children": [
+      {
+        "id": "365e1f64e93fc660",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "d3049bf0fc32a70e",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Tarea TAS7 - Events.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ]
+      },
+      {
+        "id": "435244e59fbcb284",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "0a303a8a81701a46",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "afb1be62b44fc7ab",
+    "type": "split",
+    "children": [
+      {
+        "id": "f504c39ff76513f7",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "ab9f677481493610",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "72b5c6b90055a43d",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "6bf65248e1b04eef",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "643490c02d594f29",
+    "type": "split",
+    "children": [
+      {
+        "id": "04f93371b774c545",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "52bc5a6f2764a111",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Tarea TAS7 - Events.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "891e568042697ac4",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Tarea TAS7 - Events.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "0b993852694dbbad",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "1915c2b2edc453d0",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Tarea TAS7 - Events.md"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
+    }
+  },
+  "active": "d3049bf0fc32a70e",
+  "lastOpenFiles": [
+    "Pasted image 20240522193753.png",
+    "Pasted image 20240522193700.png",
+    "Captura de pantalla 2024-05-22 174426.png",
+    "Captura de pantalla 2024-05-22 173702.png",
+    "Captura de pantalla 2024-05-22 173145.png",
+    "Pasted image 20240522193044.png",
+    "Pasted image 20240522193004.png",
+    "Pasted image 20240522192957.png",
+    "Pasted image 20240522192850.png",
+    "Pasted image 20240522192727.png",
+    "Tarea TAS7 - Events.md"
+  ]
+}
