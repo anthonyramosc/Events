@@ -1,0 +1,44 @@
+# Tarea en clas #
+## Lafunción count
+### Creacion de la tabla
+
+```
+CREATE TABLE client (
+id SERIAL,
+nui VARCHAR(10) NOT NULL,
+fullname VARCHAR(100) NOT NULL,
+phone VARCHAR(10),
+tyoe_of_client VARCHAR(50) DEFAULT 'BASIC',
+city VARCHAR(50),
+credit_limit DECIMAL (7,2),
+PRIMARY KEY (id)
+);
+
+```
+### Insercion de Datos
+```
+INSERT INTO client (nui, fullname, phone, tyoe_of_client, city, credit_limit) VALUES 
+(1001, 'John Smith', 1234567890, 'Basic', 'Cuenca', 500),
+(1002, 'Emma Johnson', 2345678901, 'VIP', 'Quito', 1000),
+(1003, 'Michael Davis', 3456789012, 'Basic', 'Guayaquil', 500),
+(1004, 'Sophia Lee', 4567890123, 'Basic', 'Manta', 500),
+(1005, 'David Brown', 5678901234, 'VIP', 'Cuenca', 1000),
+(1006, 'Olivia Garcia', 6789012345, 'Basic', 'Quito', 500),
+(1007, 'William Martinez', 7890123456, 'Basic', 'Guayaquil', 500),
+(1008, 'Ava Rodriguez', 8901234567, 'Basic', 'Manta', 500),
+(1009, 'James Wilson',5481641452 , 'VIP', 'Cuenca', 1000),
+(1010, 'Charlotte Anderson', 123456789, 'Basic', 'Quito', 500)
+```
+### Insercion de Datos sin phone
+```
+INSERT INTO client (nui, fullname, tyoe_of_client, city, credit_limit) VALUES 
+(1001, 'John Smith', 'Basic', 'Cuenca', 500),
+(1002, 'Emma Johnson', 'VIP', 'Quito', 1000),
+(1003, 'Michael Davis', 'Basic', 'Guayaquil', 500),
+(1004, 'Sophia Lee', 'Basic', 'Manta', 500),
+(1005, 'David Brown', 'VIP', 'Cuenca', 1000)
+```
+
+### Mostrar nombres
+
+
